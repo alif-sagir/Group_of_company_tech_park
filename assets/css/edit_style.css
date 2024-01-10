@@ -1,0 +1,46 @@
+.our-expert-team-box .imgs img {
+    /* width: 30px; */
+    height: 30px;
+    object-fit: cover;
+
+}
+.hero-empowerment-area .hero-empowerment-right-content .bottom-content .google-reviews-box .left img {
+    height: 33px;
+}
+.service-section-header p, .hero-service-about .section-header p {
+    align-items: center;
+    display: flex;
+    margin-bottom: 0px;
+}
+.service-card .imm {
+    height: 65px;
+    width: 65px;
+    object-fit: contain;
+}
+.client-area{
+    padding-top: 0px;
+}
+.about_area_index{
+    padding-top: 140px;
+   
+   
+}
+.about_area_index .about_area_content{
+    padding-bottom: 90px;
+}
+.about_area_index p{
+    color: rgb(28 28 28 / 80%);
+    font-size: 15px;
+    margin-top: 25px;
+    margin-bottom: 0px;
+
+}
+.hero-company-boxes {
+    border-bottom: 0px;
+}
+.company-service-area {
+    padding: 0 0 180px 0;
+}
+.company-service-area_border {
+    border-bottom: 1px solid var(--gray);
+}
